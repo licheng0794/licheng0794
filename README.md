@@ -1,29 +1,30 @@
 # Cheng Li – Machine Learning Engineer & Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-licheng2794-blue)](https://www.linkedin.com/in/cheng-li-ab99525a/)
-[![GitHub](https://img.shields.io/badge/GitHub-licheng0794-grey)](https://github.com/licheng0794)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-licheng-blue)](https://www.linkedin.com/in/cheng-li-ab99525a/)
+[![GitHub](https://img.shields.io/badge/GitHub-licheng-grey)](https://github.com/licheng0794)
 [![Google Scholar](https://img.shields.io/badge/Google--Scholar-lightgrey)](https://scholar.google.com/citations?user=02OCjKwAAAAJ&hl=en)
 
 ## 👋 About Me
 
-I am a seasoned Data Scientist and Machine Learning Engineer with over 10 years of experience in end-to-end ML system design, scalable deployment, Agentic AI and MLOps. I hold a PhD in Machine Learning & Artificial Intelligence and have published in top-tier conferences. My expertise spans classical & deep learning, generative AI, Azure AI/ML, and production-grade APIs with FastAPI.
+I am a seasoned Data Scientist and Machine Learning Engineer with over 10 years of experience in end-to-end ML system design, scalable deployment, and MLOps. I hold a PhD in Machine Learning & Artificial Intelligence and have published in top-tier conferences (e.g. ICML, NIPS, IJCAI, ICDM etc.). My expertise spans classical & deep learning, generative AI, Azure AI/ML, and production-grade APIs with FastAPI.
 
 - 📍 Melbourne, VIC, Australia
 - 📧 lichengxlxl@gmail.com | 📞 +61 420 714 881
 - 🎓 PhD (Deakin University, Australia)
+- 🏅 Azure AI Engineer Certificate
 
 ---
 
 ## 🌟 Highlighted GitHub Repositories
 
-| Repository                   | Summary                                                        | Tech Stack                                                        | Link                                                                  |
-|------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
-| **OZlaw AI**                 | AI-driven legal document analysis and search tool.             | Python, Django, FastAPI, LangChain, OpenAI API, ChromaDB, Elasticsearch, React.js | [Repo](https://github.com/licheng0794/OZlaw-AI)                      |
-| **prompt_comparsion_system** | Framework for LLM prompt comparison and evaluation.            | FastAPI, LangChain, Hugging Face, MLflow                           | [Repo](https://github.com/licheng0794/prompt_comparsion_system)       |
-| **OULAD_prediction**         | Weekly student performance forecasting on clickstream data.    | Python, LSTM, MLflow, Azure ML                                     | [Repo](https://github.com/licheng0794/OULAD_prediction)                |
-| **IMV-LSTM-Classification**  | Interpretable multi-variable LSTM for time-series analysis.    | Python, PyTorch, IMV-LSTM                                          | [Repo](https://github.com/licheng0794/IMV-LSTM-Classfication)          |
-| **BayesianActiveLearning**   | Active learning & Gaussian process meta-models for factor screening. | Python, GPy, Bayesian Optimization                               | [Repo](https://github.com/licheng0794/BayesianActiveLearning)          |
-| **highdimBO_dropout**        | High-dimensional Bayesian optimization with dropout.           | Python, GPflow, Bayesian Optimization                              | [Repo](https://github.com/licheng0794/highdimBO_dropout)              |
+| Repository                                                | Summary                                                      | Tech Stack                                                                     | Link                                                                                   |
+|-----------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| **OZlaw AI**                                              | AI-driven legal document analysis and search tool.           | Python, Django, LangChain, OpenAI API, ChromaDB | [Repo](https://github.com/licheng0794/OZlaw-AI)                                        |
+| **Intelligent-MultiAgent-Document-and-Web-Search**        | Multi-agent document and web search system using AI agents.  | Python, FastAPI, LangChain, LangGraph, OpenAI,                                     | [Repo](https://github.com/licheng0794/Intelligent-MultiAgent-Document-and-Web-Search)  |
+| **prompt_comparsion_system**                              | Framework for LLM prompt comparison and evaluation.          | Python, FastAPI, LangChain, Hugging Face, MLflow                                          | [Repo](https://github.com/licheng0794/prompt_comparsion_system)                       |
+| **OULAD_prediction**                                      | Weekly student performance forecasting on clickstream data.  | Python, LSTM                                              | [Repo](https://github.com/licheng0794/OULAD_prediction)                                |
+| **IMV-LSTM-Classification**                               | Interpretable multi-variable LSTM for time-series analysis.  | Python, PyTorch, IMV-LSTM                                                        | [Repo](https://github.com/licheng0794/IMV-LSTM-Classfication)                          |
+| **highdimBO_dropout**                                     | High-dimensional Bayesian optimization with dropout.         | Python, GPflow, Bayesian Optimization                                            | [Repo](https://github.com/licheng0794/highdimBO_dropout)                              |
 
 ---
 
@@ -54,14 +55,6 @@ I am a seasoned Data Scientist and Machine Learning Engineer with over 10 years 
 - **MLOps & Deployment:** CI/CD, MLflow, Streamlit, FastAPI, Azure AI/ML, Docker, Git
 - **Generative AI & LLM:** Transformers, LangChain, OpenAI, Hugging Face, Agentic AI
 - **Programming & Tools:** Python, Julia, C++, SQL, MATLAB
-
----
-
-## 🏆 Awards & Honors
-
-- Deakin Vice-Chancellor’s Award for Innovation (2017)  
-- ICPR Finalist, Best INTEL Track 5 (2016)  
-- ACML Runner-Up Paper & Poster Award (2016)
 
 ---
 
