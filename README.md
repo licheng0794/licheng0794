@@ -6,11 +6,11 @@
 
 ## 👋 About Me
 
-I am a seasoned Data Scientist and Machine Learning Engineer with over 10 years of experience in end-to-end ML system design, scalable deployment, and MLOps. I hold a PhD in Machine Learning & Artificial Intelligence and have published in top-tier conferences. My expertise spans classical & deep learning, generative AI, Azure AI/ML, and production-grade APIs with FastAPI.
+I am a seasoned Data Scientist and Machine Learning Engineer with over 10 years of experience in end-to-end ML system design, scalable deployment, Agentic AI and MLOps. I hold a PhD in Machine Learning & Artificial Intelligence and have published in top-tier conferences. My expertise spans classical & deep learning, generative AI, Azure AI/ML, and production-grade APIs with FastAPI.
 
 - 📍 Melbourne, VIC, Australia
 - 📧 lichengxlxl@gmail.com | 📞 +61 420 714 881
-- 🎓 PhD (Deakin University), MEng (Huazhong University), BE (China Central Normal University)
+- 🎓 PhD (Deakin University, Australia)
 
 ---
 
