@@ -1,4 +1,4 @@
-# Cheng Li – Machine Learning Engineer & Data Scientist
+# Cheng Li 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-licheng-blue)](https://www.linkedin.com/in/cheng-li-ab99525a/)
 [![GitHub](https://img.shields.io/badge/GitHub-licheng-grey)](https://github.com/licheng0794)
