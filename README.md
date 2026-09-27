@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I am a seasoned Data Scientist and Machine Learning Engineer with over 10 years of experience in end-to-end ML system design, scalable deployment, and MLOps. I hold a PhD in Machine Learning & Artificial Intelligence and have published in top-tier conferences (e.g. ICML, NIPS, IJCAI, ICDM etc.). My expertise spans classical & deep learning, generative AI, Azure AI/ML, and production-grade APIs.
+I am a Lead Data Scientist and Machine Learning Engineer with over 10 years of experience in end-to-end ML system design, scalable deployment, and MLOps. I hold a PhD in Machine Learning & Artificial Intelligence and have published in top-tier conferences (e.g. ICML, NIPS, IJCAI, ICDM etc.). My expertise spans classical & deep learning, generative AI, Azure AI/ML, and production-grade APIs.
 
 I have worked on a wide range of projects—from building digital twins and predictive models to integrating large language models into real-world applications. I enjoy turning complex problems into practical, scalable solutions, and has collaborated with teams across industries like water treatment, 3D point cloud, material discovery, health data analysis and cybersecurity. I am passionate about making AI useful in everyday business and brings a thoughtful, hands-on approach to his work.
 
